@@ -1,0 +1,11 @@
+{
+  "name": "git-legit",
+  "version": "0.0.1",
+  "description": "A CLI tool to enhance your Git workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walter Weidner",
+  "license": "MIT"
+}
